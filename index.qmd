@@ -1,11 +1,17 @@
 ---
-title: "website_min"
+title: "Min Max Seo"
+image: profile.jpg
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:mseo011231@gmail.com
+    - text: CV
+      icon: github
+      href: "https://github.com/min-max-seo/main/blob/eea11e169936c2a3308d4641176081d633760bb6/docs/cv_seo.pdf"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to my website. My name is Min (they/them) and I am a 4th-year undergraduate student in Psychology and Mathematics at the University of Waterloo. You can find links to my email address and CV below.

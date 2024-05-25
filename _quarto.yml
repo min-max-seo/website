@@ -1,19 +1,56 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website_min"
+  title: "Min Max Seo"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Research"
+        menu:
+          - text: "Reasoning and Decision Making Lab, UW"
+            href: uw_rdml.qmd
+          - text: "Social Development Lab, UW"
+            href: uw_sdl.qmd
+          - text: "Faculty of Education, WLU"
+            href: wlu_fac_of_ed.qmd
+      - text: "Projects"
+        menu:
+          - text: "Learning and Teaching of Mathematics"
+            href: learn_and_teach.qmd
+      - blog.qmd
+      - gallery.qmd
+    tools:
+    right:
+      - icon: twitter
+        url: https://twitter.com/min_MAX_Seo
+      - icon: instagram
+        url: https://www.instagram.com/enby_mathemagician/
+      - icon: github
+        url: https://github.com/min-max-seo/website
+
+  page-footer: 
+    left: "Copyright 2024, Min Max Seo" 
+    right: 
+      - icon: twitter 
+        href: https://twitter.com/min_MAX_Seo
+      - icon: instagram
+        url: https://www.instagram.com/enby_mathemagician/
+      - icon: github
+        url: https://github.com/min-max-seo/website
 
 format:
   html:
-    theme: cosmo
+    theme: journal
+    mainfont: arial
+    fontsize: 1.2rem
     css: styles.css
     toc: true
 
 editor: visual
+
+
 

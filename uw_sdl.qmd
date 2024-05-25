@@ -1,0 +1,13 @@
+---
+title: "Social Development Lab, University of Waterloo"
+---
+
+Social Development Lab is a developmental psychology lab housed in the Department of Psychology at the University of Waterloo in Canada. I am currently working as a directed studies student at the lab. I am currently working on:
+
+## Validation of WRBS-Middle
+
+The Waterloo Region Belonging Survey - Middle Childhood Version (WRBS-Middle) is designed to measure children's (aged 8-13) sense of belonging in non-school contexts. As a directed studies student, I am leading the validation of the survey by
+
+-   examining the internal consistency, validity, and factor structure of the WRBS-Middle
+
+-   writing a formal report on the validation processes and results
