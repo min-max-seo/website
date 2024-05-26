@@ -11,7 +11,7 @@ about:
       href: mailto:mseo011231@gmail.com
     - text: CV
       icon: github
-      href: cv_seo.pdf
+      href: "https://github.com/min-max-seo/website/blob/4ce60081939014e13fd1bc17061ef7911e673af7/cv_seo.pdf"
 ---
 
 Welcome to my website. My name is Min (they/them) and I am a 4th-year undergraduate student in Psychology and Mathematics at the University of Waterloo. You can find links to my email address and CV below.
