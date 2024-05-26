@@ -2,8 +2,32 @@
 title: "About"
 ---
 
-About this site
+# I am a ...
 
-```{r}
-1 + 1
-```
+### [**Math Enthusiast**]{.underline}
+
+"Math enthusiast" is the term I use to describe myself to my students. I hope to transfer my enthusiasm about math to them; my impression of math is transferable and can help students build positive associations with mathematics.
+
+### [**Classical Musician**]{.underline}
+
+I am a classically trained musician; I play the piano, viola, and flute. I am a violist of the University of Waterloo Orchestra. I hope to learn how to play the classical guitar as well.
+
+### [**Harm-Reduction Worker**]{.underline}
+
+I work as a harm-reduction worker at a local shelter in Waterloo, ON.
+
+### [**Researcher**]{.underline}
+
+My research interests include
+
+-   Designing Accessible K-12 Mathematics Curriculum,
+-   Reasoning & Decision-Making Processes in Mathematical Learning,
+-   Examining the Roles of Self-esteem and Self-efficacy of Students in Learning Mathematics,
+-   Teacher Education: Transferable Impressions of Mathematics, and
+-   Supporting Students with Various Learning Needs in Mathematics Education.
+
+This is not an exhaustive list.
+
+### [**Trans Activist**]{.underline}
+
+I am a racialized trans/non-binary person. Supporting and advocating for the trans community in various ways are essential parts of my life.
