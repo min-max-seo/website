@@ -25,7 +25,7 @@ website:
       - gallery.qmd
     tools:
     right:
-      - icon: twitter
+      - icon: twitter-x
         url: https://twitter.com/min_MAX_Seo
       - icon: instagram
         url: https://www.instagram.com/enby_mathemagician/
@@ -35,7 +35,7 @@ website:
   page-footer: 
     left: "Copyright 2024, Min Max Seo" 
     right: 
-      - icon: twitter 
+      - icon: twitter-x
         href: https://twitter.com/min_MAX_Seo
       - icon: instagram
         url: https://www.instagram.com/enby_mathemagician/
