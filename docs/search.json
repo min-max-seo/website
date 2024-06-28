@@ -32,21 +32,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a …\n\nMath Enthusiast\n“Math enthusiast” is the term I use to describe myself to my students. I hope to transfer my enthusiasm about math to them; my impression of math is transferable and can help students build positive associations with mathematics.\n\n\nClassical Musician\nI am a classically trained musician; I play the piano, viola, and flute. I am a violist of the University of Waterloo Orchestra. I hope to learn how to play the classical guitar as well.\n\n\nHarm-Reduction Worker\nI work as a harm-reduction worker at a local shelter in Waterloo, ON.\n\n\nResearcher\nMy research interests include\n\nDesigning Accessible K-12 Mathematics Curriculum,\nReasoning & Decision-Making Processes in Mathematical Learning,\nExamining the Roles of Self-esteem and Self-efficacy of Students in Learning Mathematics,\nTeacher Education: Transferable Impressions of Mathematics, and\nSupporting Students with Various Learning Needs in Mathematics Education.\n\nThis is not an exhaustive list.\n\n\nTrans Activist\nI am a racialized trans/non-binary person. Supporting and advocating for the trans community in various ways are essential parts of my life."
+    "text": "I am a …\n\nMath Enthusiast\n“Math enthusiast” is the term I use to describe myself to my students. I hope to transfer my enthusiasm about math to them; I believe my impression of math is transferable and can help students build positive associations with mathematics.\n\n\nClassical Musician\nI am a classically trained musician; I started playing the piano at the age of 4 and the viola at the age of 19. I sometimes perform as a soloist or as a chamber musician. Classical music always makes my life a lot richer and more fulfilling.\n\n\nHarm-Reduction Worker\nI work as a harm-reduction worker at a local shelter in Waterloo, ON. Harm-reduction saves lives!!\n\n\nResearcher\nMy research interests include\n\nDesigning Accessible K-12 Mathematics Curriculum,\nReasoning & Decision-Making Processes in Mathematical Learning,\nExamining the Roles of Self-esteem and Self-efficacy of Students in Learning Mathematics,\nTeacher Education: Transferable Impressions of Mathematics, and\nSupporting Students with Various Learning Needs in Mathematics Education.\n\nThis is not an exhaustive list.\n\n\nTrans Activist\nI am a racialized trans/non-binary person. Supporting and advocating for the trans* community in various ways are essential parts of my life. If you are a queer/trans person and wish to talk more about navigating your school/work safely as a queer/trans person, please feel free to reach me."
   },
   {
     "objectID": "uw_sdl.html",
     "href": "uw_sdl.html",
     "title": "Social Development Lab, University of Waterloo",
     "section": "",
-    "text": "Social Development Lab is a developmental psychology lab housed in the Department of Psychology at the University of Waterloo in Canada. I am currently working as a directed studies student at the lab. I am currently working on:"
+    "text": "Social Development Lab is a developmental psychology lab housed in the Department of Psychology at the University of Waterloo in Canada. I am currently working as a research assistant at the lab. These are some projects I have been part of:"
   },
   {
     "objectID": "uw_sdl.html#validation-of-wrbs-middle",
     "href": "uw_sdl.html#validation-of-wrbs-middle",
     "title": "Social Development Lab, University of Waterloo",
     "section": "Validation of WRBS-Middle",
-    "text": "Validation of WRBS-Middle\nThe Waterloo Region Belonging Survey - Middle Childhood Version (WRBS-Middle) is designed to measure children’s (aged 8-13) sense of belonging in non-school contexts. As a directed studies student, I am leading the validation of the survey by\n\nexamining the internal consistency, validity, and factor structure of the WRBS-Middle\nwriting a formal report on the validation processes and results"
+    "text": "Validation of WRBS-Middle\nThe Waterloo Region Belonging Survey - Middle Childhood Version (WRBS-Middle) is designed to measure children’s (aged 8-13) sense of belonging in non-school contexts. As a directed studies student, I lead the validation of the survey by\n\nExamining the internal consistency, validity, and factor structure of the WRBS-Middle\nWriting a formal report on the validation processes and results"
   },
   {
     "objectID": "index.html",
@@ -54,5 +54,26 @@
     "title": "Min Max Seo",
     "section": "",
     "text": "Welcome to my website. My name is Min (they/them) and I am a 4th-year undergraduate student in Psychology and Mathematics at the University of Waterloo. You can find links to my email address and CV below."
+  },
+  {
+    "objectID": "uw_sdl.html#data-cleaning-of-wrbs-early",
+    "href": "uw_sdl.html#data-cleaning-of-wrbs-early",
+    "title": "Social Development Lab, University of Waterloo",
+    "section": "Data Cleaning of WRBS-Early",
+    "text": "Data Cleaning of WRBS-Early\nThe Waterloo Region Belonging Survey - Early Childhood Version (WRBS-Early) is designed to measure children’s (aged 3-7) sense of belonging in non-school contexts. As a research assistant, I am in charge of\n\nCleaning and merging children’s data with their parents’ data using R"
+  },
+  {
+    "objectID": "wlu_fac_of_ed.html",
+    "href": "wlu_fac_of_ed.html",
+    "title": "Faculty of Education, Wilfrid Laurier University",
+    "section": "",
+    "text": "I have been working as a research assistant of Dr. Jennifer Holm at WLU. Project(s) I have been part of:"
+  },
+  {
+    "objectID": "wlu_fac_of_ed.html#teachers-use-of-mathematics-apps",
+    "href": "wlu_fac_of_ed.html#teachers-use-of-mathematics-apps",
+    "title": "Faculty of Education, Wilfrid Laurier University",
+    "section": "Teachers’ Use of mathematics Apps",
+    "text": "Teachers’ Use of mathematics Apps\nThis is a qualitative study aimed to examine teachers’ experiences using math apps in their classrooms.\n\nConducted a literature search and drafted an informal report of the results\nParticipated in research design meetings"
   }
 ]
