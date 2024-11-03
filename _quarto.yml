@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Min Max Seo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: "Research"
+        menu:
+          - text: "Faculty of Education, OTU"
+            href: otu_fac_of_ed.qmd
+          - text: "Social Development Lab, UW"
+            href: uw_sdl.qmd
+          - text: "Reasoning and Decision Making Lab, UW"
+            href: uw_rdml.qmd
+          - text: "Faculty of Education, WLU"
+            href: wlu_fac_of_ed.qmd
+      - text: "Learning/Teaching Philosophy"
+        menu:
+          - text: "Learning Mathematics"
+            href: learn_math.qmd
+          - text: "Teaching Mathematics"
+            href: teach_math.qmd
+          - text: "Learning Music"
+            href: learn_music.qmd
+          - text: "Teaching Music"
+            href: teach_music.qmd
+      - gallery.qmd
+    tools:
+    right:
+      - icon: twitter-x
+        url: https://twitter.com/min_MAX_Seo
+      - icon: instagram
+        url: https://www.instagram.com/min_max_extrema/
+      - icon: github
+        url: https://github.com/min-max-seo/website
+
+  page-footer: 
+    left: "Copyright 2024, Min Max Seo" 
+    right: 
+      - icon: twitter-x
+        href: https://twitter.com/min_MAX_Seo
+      - icon: instagram
+        url: https://www.instagram.com/min_max_extrema/
+      - icon: github
+        url: https://github.com/min-max-seo/website
+
+format:
+  html:
+    theme: journal
+    mainfont: arial
+    fontsize: 1.2rem
+    css: styles.css
+    toc: true
+
+editor: visual
