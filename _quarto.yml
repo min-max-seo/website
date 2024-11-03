@@ -29,7 +29,7 @@ website:
             href: learn_music.qmd
           - text: "Teaching Music"
             href: teach_music.qmd
-      - gallery.qmd
+      - gal.qmd
     tools:
     right:
       - icon: twitter-x
