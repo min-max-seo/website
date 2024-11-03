@@ -19,11 +19,16 @@ website:
             href: uw_rdml.qmd
           - text: "Faculty of Education, WLU"
             href: wlu_fac_of_ed.qmd
-      - text: "Projects"
+      - text: "Learning/Teaching Philosophy"
         menu:
-          - text: "Learning and Teaching of Mathematics"
-            href: learn_and_teach.qmd
-      - blog.qmd
+          - text: "Learning Mathematics"
+            href: learn_math.qmd
+          - text: "Teaching Mathematics"
+            href: teach_math.qmd
+          - text: "Learning Music"
+            href: learn_music.qmd
+          - text: "Teaching Music"
+            href: teach_music.qmd
       - gallery.qmd
     tools:
     right:
