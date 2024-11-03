@@ -1,9 +1,10 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Min Max Seo"
+  page-navigation: true
   navbar:
     left:
       - href: index.qmd
