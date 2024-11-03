@@ -8,10 +8,10 @@ about:
   links:
     - text: Email
       icon: envelope
-      href: mailto:mseo011231@gmail.com
+      href: mailto:min.seo@ontariotechu.net
     - text: CV
       icon: github
       href: "https://github.com/min-max-seo/website/blob/67057b56f71cdd5c27fcb5a0532332953e8de5b5/docs/cv_seo.pdf"
 ---
 
-Welcome to my website. My name is Min (they/them) and I am a 4th-year undergraduate student in Psychology and Mathematics at the University of Waterloo. You can find links to my email address and CV below.
+Welcome to my website. My name is Min (they/them) and I am a graduate student in the Faculty of Education at Ontario Tech University. You can find links to my email address and CV below.

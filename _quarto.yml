@@ -28,7 +28,7 @@ website:
       - icon: twitter-x
         url: https://twitter.com/min_MAX_Seo
       - icon: instagram
-        url: https://www.instagram.com/enby_mathemagician/
+        url: https://www.instagram.com/min_max_extrema/
       - icon: github
         url: https://github.com/min-max-seo/website
 
@@ -38,7 +38,7 @@ website:
       - icon: twitter-x
         href: https://twitter.com/min_MAX_Seo
       - icon: instagram
-        url: https://www.instagram.com/enby_mathemagician/
+        url: https://www.instagram.com/min_max_extrema/
       - icon: github
         url: https://github.com/min-max-seo/website
 
@@ -51,6 +51,3 @@ format:
     toc: true
 
 editor: visual
-
-
-
