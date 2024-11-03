@@ -1,6 +1,6 @@
 ---
 title: "Min Max Seo"
-image: profile.jpg
+image: profile1.jpg
 about:
   template: jolla
   image-shape: rounded
