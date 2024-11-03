@@ -2,11 +2,11 @@
 title: "Social Development Lab, University of Waterloo"
 ---
 
-Social Development Lab is a developmental psychology lab housed in the Department of Psychology at the University of Waterloo in Canada. I am currently working as a research assistant at the lab. These are some projects I have been part of:
+Social Development Lab (SDL) is a developmental psychology lab housed in the Department of Psychology at the University of Waterloo in Canada. I had worked as a research assistant for the SDL from December 2023 to August 2024. These are some projects I had been part of:
 
 ## Validation of WRBS-Middle
 
-The Waterloo Region Belonging Survey - Middle Childhood Version (WRBS-Middle) is designed to measure children's (aged 8-13) sense of belonging in non-school contexts. As a directed studies student, I lead the validation of the survey by
+The Waterloo Region Belonging Survey - Middle Childhood Version (WRBS-Middle) is designed to measure children's (aged 8-13) sense of belonging in non-school contexts. As a directed studies student, I led the validation of the survey by
 
 -   Examining the internal consistency, validity, and factor structure of the WRBS-Middle
 
@@ -14,6 +14,6 @@ The Waterloo Region Belonging Survey - Middle Childhood Version (WRBS-Middle) is
 
 ## Data Cleaning of WRBS-Early
 
-The Waterloo Region Belonging Survey - Early Childhood Version (WRBS-Early) is designed to measure children's (aged 3-7) sense of belonging in non-school contexts. As a research assistant, I am in charge of
+The Waterloo Region Belonging Survey - Early Childhood Version (WRBS-Early) is designed to measure children's (aged 3-7) sense of belonging in non-school contexts. As a research assistant, I was in charge of
 
 -   Cleaning and merging children's data with their parents' data using R

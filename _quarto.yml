@@ -11,10 +11,12 @@ website:
       - about.qmd
       - text: "Research"
         menu:
-          - text: "Reasoning and Decision Making Lab, UW"
-            href: uw_rdml.qmd
+          - text: "Faculty of Education, OTU"
+            href: otu_fac_of_ed.qmd
           - text: "Social Development Lab, UW"
             href: uw_sdl.qmd
+          - text: "Reasoning and Decision Making Lab, UW"
+            href: uw_rdml.qmd
           - text: "Faculty of Education, WLU"
             href: wlu_fac_of_ed.qmd
       - text: "Projects"
