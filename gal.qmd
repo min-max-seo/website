@@ -2,4 +2,71 @@
 title: "Gallery"
 ---
 
-Photos
+## Family & Friends
+::: {layout-ncol=3}
+![W Mom at UW graduation](photos/uw_graduation_mom.jpg)
+
+![W Amy at Grebel graduation](photos/amy_grebel.jpg)
+
+![W Darley at Grebel graduation](photos/darley_grebel.jpg)
+
+![Family photo at Grebel graduation](photos/family_grebel.jpg)
+
+![W Mom at Grebel graduation](photos/mom_grebel.jpg)
+
+![Baby me!](photos/baby_min.jpg)
+
+![Mom](photos/mom_baby_min.jpg)
+
+![Dad](photos/dad_baby_min.jpg)
+
+![Grandma](photos/grandma_baby_min.jpg)
+:::
+
+## Day-to-day Life
+::: {layout-ncol=3}
+![CAEH24 - group photo](photos/caeh_1.jpg)
+
+![CAEH24 presentation](photos/caeh_presentation.jpg)
+
+![Quebec city](photos/quebec_city.jpg)
+
+![2024 CMESG annual meeting](photos/cmesg_2024.jpg)
+
+![Me at 2024 CMESG annual meeting](photos/me_cmesg.jpg)
+
+![Me at Grebel graduation](photos/min_grebel.jpg)
+
+![Rock climbing](photos/rock_climbing.jpg)
+
+![Poster presentation session](photos/poster_presentation.jpg)
+
+![Narcan sign on my backpack!](photos/naloxone_backpack.jpg)
+:::
+
+## Musical Life
+::: {layout-ncol=3}
+![Practice session at a grand piano](photos/grand_piano_1.jpg)
+
+![Orchestra practice](photos/orchestra_practice.jpg)
+
+![Practice session for a performance](photos/practice_1.jpg)
+
+![Orchestra concert](photos/orchestra_concert.jpg)
+
+![Me with viola case](photos/min_viola_case.jpg)
+
+![Mini metronome](photos/metronome.jpg)
+
+![New guitar](photos/guitar.jpg)
+:::
+
+## Toto & Nana
+::: {layout-ncol=3}
+![Nana in a grocery bag](photos/nana_1.jpg)
+:::
+
+## Food
+::: {layout-ncol=3}
+![Homemade sushi](photos/sushi.jpg)
+:::
