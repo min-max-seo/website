@@ -22,6 +22,8 @@ website:
             href: wlu_fac_of_ed.qmd
       - text: "Learning/Teaching Philosophy"
         menu:
+          - text: "Overview"
+            href: overview_learning_philosophy.qmd
           - text: "Learning Mathematics"
             href: learn_math.qmd
           - text: "Teaching Mathematics"
@@ -30,6 +32,8 @@ website:
             href: learn_music.qmd
           - text: "Teaching Music"
             href: teach_music.qmd
+          - text: "Learning English as a Second Language"
+            href: learn_english.qmd
       - gal.qmd
     tools:
     right:
