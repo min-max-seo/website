@@ -20,7 +20,7 @@ website:
             href: uw_rdml.qmd
           - text: "Faculty of Education, WLU"
             href: wlu_fac_of_ed.qmd
-      - text: "Learning/Teaching Philosophy"
+      - text: "Learning/Teaching"
         menu:
           - text: "Overview"
             href: overview_learning_philosophy.qmd
