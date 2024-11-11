@@ -22,8 +22,8 @@ website:
             href: wlu_fac_of_ed.qmd
       - text: "Learning/Teaching"
         menu:
-          - text: "Overview"
-            href: overview_learning_philosophy.qmd
+          - text: "Learning Philosophy"
+            href: learning_philosophy.qmd
           - text: "Learning Mathematics"
             href: learn_math.qmd
           - text: "Teaching Mathematics"
