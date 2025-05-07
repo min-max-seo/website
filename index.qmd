@@ -11,7 +11,7 @@ about:
       href: mailto:min.seo@ontariotechu.net
     - text: CV
       icon: github
-      href: "https://github.com/min-max-seo/website/blob/025b1ca2900c67cde35dc77e46c05d5caa7ec046/cv_seo.pdf"
+      href: "https://github.com/min-max-seo/website/blob/a30583349fbfd7301af29472f89e8e2acda6a6d0/cv_seo%2020250507.pdf"
 ---
 
 Welcome to my website. My name is Min (they/them) and I am a graduate student in the Faculty of Education at Ontario Tech University. You can find links to my email address and CV below.
