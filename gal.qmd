@@ -3,7 +3,12 @@ title: "Gallery"
 ---
 
 ## Family & Friends
-::: {layout-ncol=3}
+
+::: {layout-ncol="3"}
+![Thao](photos/thao_1.jpg)
+
+![Amy + Thao + Min](photos/amy_thao_min.jpg)
+
 ![W Mom at UW graduation](photos/uw_graduation_mom.jpg)
 
 ![W Amy at Grebel graduation](photos/amy_grebel.jpg)
@@ -24,7 +29,12 @@ title: "Gallery"
 :::
 
 ## Day-to-day Life
-::: {layout-ncol=3}
+
+::: {layout-ncol="3"}
+![Me eating Thao's dumplings](photos/dumpling.jpg)
+
+![Rock climbing 2](photos/rock_climbing2.jpg)
+
 ![CAEH24 - group photo](photos/caeh_1.jpg)
 
 ![CAEH24 presentation](photos/caeh_presentation.jpg)
@@ -45,7 +55,10 @@ title: "Gallery"
 :::
 
 ## Musical Life
-::: {layout-ncol=3}
+
+::: {layout-ncol="3"}
+![Practice session for the concerto competition](photos/great_hall.jpg)
+
 ![Practice session at a grand piano](photos/grand_piano_1.jpg)
 
 ![Orchestra practice](photos/orchestra_practice.jpg)
@@ -62,11 +75,29 @@ title: "Gallery"
 :::
 
 ## Toto & Nana
-::: {layout-ncol=3}
+
+::: {layout-ncol="3"}
+![Toto + Nana](photos/toto_nana1.jpg)
+
+![Kitten Nana](photos/nana_4.jpg)
+
+![Toto with a slipper](photos/toto_2.jpg)
+
+![Nana in Toto's bed](photos/nana_3.jpg)
+
+![Toto under the sunlight](photos/toto_1.jpg)
+
+![Nana on a couch](photos/nana_2.jpg)
+
 ![Nana in a grocery bag](photos/nana_1.jpg)
 :::
 
 ## Food
-::: {layout-ncol=3}
+
+::: {layout-ncol="3"}
+![Dad's pork cutlet](photos/pork_cutlet.jpg)
+
+![Jjolmyeon](photos/jjolmyeon.jpg)
+
 ![Homemade sushi](photos/sushi.jpg)
 :::
