@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Min Max Seo"
+  site-url: "http://min-max-seo.github.io/website/"
   page-navigation: true
   navbar:
     left:
