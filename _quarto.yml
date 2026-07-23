@@ -1,10 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv.pdf
+    - google632d12bbc25fdd9a.html
 
 website:
   title: "Min Max Seo"
-  site-url: "http://min-max-seo.github.io/website/"
+  site-url: "https://min-max-seo.github.io/website/"
   page-navigation: true
   navbar:
     left:
@@ -37,23 +40,18 @@ website:
             href: learn_english.qmd
       - gal.qmd
     tools:
-    right:
-      - icon: twitter-x
-        url: https://twitter.com/min_MAX_Seo
       - icon: instagram
-        url: https://www.instagram.com/min_max_extrema/
+        href: https://www.instagram.com/min_max_extrema/
       - icon: github
-        url: https://github.com/min-max-seo/website
+        href: https://github.com/min-max-seo/website
 
   page-footer: 
-    left: "Copyright 2025, Min Max Seo" 
+    left: "Copyright 2026, Min Max Seo" 
     right: 
-      - icon: twitter-x
-        href: https://twitter.com/min_MAX_Seo
       - icon: instagram
-        url: https://www.instagram.com/min_max_extrema/
+        href: https://www.instagram.com/min_max_extrema/
       - icon: github
-        url: https://github.com/min-max-seo/website
+        href: https://github.com/min-max-seo/website
 
 format:
   html:
@@ -61,6 +59,6 @@ format:
     mainfont: arial
     fontsize: 1.2rem
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual

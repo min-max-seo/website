@@ -1,103 +1,165 @@
 ---
 title: "Gallery"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+    toc-location: left
+    toc-depth: 2
+    lightbox: auto
 ---
 
 ## Family & Friends
 
+::: {layout-ncol="4"}
+![Grandma on a picnic day](photos/grandma_flowers.jpg){group="family" loading="lazy"}
+
+![W Amy at bubble tea store](photos/amy_tastea.jpg){group="family" loading="lazy"}
+
+![Amy with a parfait on her birthday](photos/amy_bday.jpg){group="family" loading="lazy"}
+
+![W Amy at Grebel graduation](photos/amy_grebel.jpg){group="family" loading="lazy"}
+
+![Mel w a smile](photos/mel_smile.jpg){group="family" loading="lazy"}
+
+![Mel looking professional and sharp](photos/mel_professional.jpg){group="family" loading="lazy"}
+
+![Mel w flowers](photos/mel_flowers.jpg){group="family" loading="lazy"}
+
+![Mel in a blue dress shirt](photos/mel_blueshirt.jpg){group="family" loading="lazy"}
+:::
+
 ::: {layout-ncol="3"}
-![Thao](photos/thao_1.jpg)
+![Thao](photos/thao_1.jpg){group="family" loading="lazy"}
 
-![Amy + Thao + Min](photos/amy_thao_min.jpg)
+![Amy + Thao + Min](photos/amy_thao_min.jpg){group="family" loading="lazy"}
 
-![W Mom at UW graduation](photos/uw_graduation_mom.jpg)
+![W Darley at Grebel graduation](photos/darley_grebel.jpg){group="family" loading="lazy"}
 
-![W Amy at Grebel graduation](photos/amy_grebel.jpg)
+![Family photo at Grebel graduation](photos/family_grebel.jpg){group="family" loading="lazy"}
 
-![W Darley at Grebel graduation](photos/darley_grebel.jpg)
+![W Mom at UW graduation](photos/uw_graduation_mom.jpg){group="family" loading="lazy"}
 
-![Family photo at Grebel graduation](photos/family_grebel.jpg)
+![W Mom at Grebel graduation](photos/mom_grebel.jpg){group="family" loading="lazy"}
+:::
 
-![W Mom at Grebel graduation](photos/mom_grebel.jpg)
+::: {layout-ncol="3"}
+![Uncle Dongho](photos/uncle_dongho.jpg){group="family" loading="lazy"}
 
-![Baby me!](photos/baby_min.jpg)
+![Baby me!](photos/baby_min.jpg){group="family" loading="lazy"}
 
-![Mom](photos/mom_baby_min.jpg)
+![Mom](photos/mom_baby_min.jpg){group="family" loading="lazy"}
 
-![Dad](photos/dad_baby_min.jpg)
+![Dad](photos/dad_baby_min.jpg){group="family" loading="lazy"}
 
-![Grandma](photos/grandma_baby_min.jpg)
+![Grandma](photos/grandma_baby_min.jpg){group="family" loading="lazy"}
 :::
 
 ## Day-to-day Life
 
+::: {layout-ncol="4"}
+![Me holding sunflowers for mom](photos/min_flowers.jpg){group="daily" loading="lazy"}
+
+![Me standing in front of my building](photos/min_57queen.jpg){group="daily" loading="lazy"}
+
+![Me eating Thao's dumplings](photos/dumpling.jpg){group="daily" loading="lazy"}
+
+![Rock climbing 2](photos/rock_climbing2.jpg){group="daily" loading="lazy"}
+
+![Quebec city](photos/quebec_city.jpg){group="daily" loading="lazy"}
+
+![Rock climbing](photos/rock_climbing.jpg){group="daily" loading="lazy"}
+
+![Narcan sign on my backpack!](photos/naloxone_backpack.jpg){group="daily" loading="lazy"}
+:::
+
+## Academic Life
+
 ::: {layout-ncol="3"}
-![Me eating Thao's dumplings](photos/dumpling.jpg)
+![The 50th CMESG - sunset during excursion](photos/cmesg26_sky.jpg){group="academic" loading="lazy"}
 
-![Rock climbing 2](photos/rock_climbing2.jpg)
+![The 50th CMESG - messages on a giant piece of paper](photos/cmesg26_notes.jpg){group="academic" loading="lazy"}
 
-![CAEH24 - group photo](photos/caeh_1.jpg)
+![A shape built with math manipulatives](photos/math_manipulative_1.jpg){group="academic" loading="lazy"}
 
-![CAEH24 presentation](photos/caeh_presentation.jpg)
+![CAEH24 - group photo](photos/caeh_1.jpg){group="academic" loading="lazy"}
 
-![Quebec city](photos/quebec_city.jpg)
+![CAEH24 presentation](photos/caeh_presentation.jpg){group="academic" loading="lazy"}
 
-![2024 CMESG annual meeting](photos/cmesg_2024.jpg)
+![2024 CMESG annual meeting](photos/cmesg_2024.jpg){group="academic" loading="lazy"}
 
-![Me at 2024 CMESG annual meeting](photos/me_cmesg.jpg)
+![Me at 2024 CMESG annual meeting](photos/me_cmesg.jpg){group="academic" loading="lazy"}
 
-![Me at Grebel graduation](photos/min_grebel.jpg)
+![Me at Grebel graduation](photos/min_grebel.jpg){group="academic" loading="lazy"}
 
-![Rock climbing](photos/rock_climbing.jpg)
-
-![Poster presentation session](photos/poster_presentation.jpg)
-
-![Narcan sign on my backpack!](photos/naloxone_backpack.jpg)
+![Poster presentation session](photos/poster_presentation.jpg){group="academic" loading="lazy"}
 :::
 
 ## Musical Life
 
-::: {layout-ncol="3"}
-![Practice session for the concerto competition](photos/great_hall.jpg)
+::: {layout-ncol="4"}
+![Practice session for the concerto competition](photos/great_hall.jpg){group="music" loading="lazy"}
 
-![Practice session at a grand piano](photos/grand_piano_1.jpg)
+![Practice session at a grand piano](photos/grand_piano_1.jpg){group="music" loading="lazy"}
 
-![Orchestra practice](photos/orchestra_practice.jpg)
+![Orchestra practice](photos/orchestra_practice.jpg){group="music" loading="lazy"}
 
-![Practice session for a performance](photos/practice_1.jpg)
+![Practice session for a performance](photos/practice_1.jpg){group="music" loading="lazy"}
 
-![Orchestra concert](photos/orchestra_concert.jpg)
+![Orchestra concert](photos/orchestra_concert.jpg){group="music" loading="lazy"}
 
-![Me with viola case](photos/min_viola_case.jpg)
+![Me with viola case](photos/min_viola_case.jpg){group="music" loading="lazy"}
 
-![Mini metronome](photos/metronome.jpg)
-
-![New guitar](photos/guitar.jpg)
+![Mini metronome](photos/metronome.jpg){group="music" loading="lazy"}
 :::
 
 ## Toto & Nana
 
-::: {layout-ncol="3"}
-![Toto + Nana](photos/toto_nana1.jpg)
+::: {layout-ncol="4"}
+![Bedside Toto](photos/toto_3.jpg){group="pets" loading="lazy"}
 
-![Kitten Nana](photos/nana_4.jpg)
+![Nana showing her belly](photos/nana_8.jpg){group="pets" loading="lazy"}
 
-![Toto with a slipper](photos/toto_2.jpg)
+![Toto at a beach](photos/toto_6.jpg){group="pets" loading="lazy"}
 
-![Nana in Toto's bed](photos/nana_3.jpg)
+![Nana reaching out a paw](photos/nana_7.jpg){group="pets" loading="lazy"}
 
-![Toto under the sunlight](photos/toto_1.jpg)
+![Toto leaning against me and sofa](photos/toto_5.jpg){group="pets" loading="lazy"}
 
-![Nana on a couch](photos/nana_2.jpg)
+![Nana staring at moving laser](photos/nana_6.jpg){group="pets" loading="lazy"}
 
-![Nana in a grocery bag](photos/nana_1.jpg)
+![Toto with his bed and toys](photos/toto_4.jpg){group="pets" loading="lazy"}
+
+![Nana sitting on a digital piano bench](photos/nana_5.jpg){group="pets" loading="lazy"}
+
+![Toto + Nana](photos/toto_nana1.jpg){group="pets" loading="lazy"}
+
+![Kitten Nana](photos/nana_4.jpg){group="pets" loading="lazy"}
+
+![Toto with a slipper](photos/toto_2.jpg){group="pets" loading="lazy"}
+
+![Nana in Toto's bed](photos/nana_3.jpg){group="pets" loading="lazy"}
+
+![Toto under the sunlight](photos/toto_1.jpg){group="pets" loading="lazy"}
+
+![Nana on a couch](photos/nana_2.jpg){group="pets" loading="lazy"}
+
+![Nana in a grocery bag](photos/nana_1.jpg){group="pets" loading="lazy"}
 :::
 
 ## Food
 
-::: {layout-ncol="3"}
-![Dad's pork cutlet](photos/pork_cutlet.jpg)
+::: {layout-ncol="4"}
+![Coffee w a friend (no person in the frame)](photos/coffee_with_itman.jpg){group="food" loading="lazy"}
 
-![Jjolmyeon](photos/jjolmyeon.jpg)
+![Dad's pork cutlet](photos/pork_cutlet.jpg){group="food" loading="lazy"}
 
-![Homemade sushi](photos/sushi.jpg)
+![Jjolmyeon](photos/jjolmyeon.jpg){group="food" loading="lazy"}
+
+![Homemade sushi](photos/sushi.jpg){group="food" loading="lazy"}
 :::
+
+## Inspirations
+
+![Zinnia on Stage](photos/rachael_stage.jpg){group="inspiration" loading="lazy"}
+
