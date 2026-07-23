@@ -11,7 +11,7 @@ about:
       href: mailto:mseo011231@gmail.com
     - text: CV
       icon: file-earmark-pdf
-      href: cv.pdf
+      href: https://min-max-seo.github.io/website/cv.pdf
 ---
 
 Welcome to my website. My name is Min (they/he) and I am a graduate student in the Faculty of Education at Ontario Tech University, studying mathematics education. You can find links to my personal email address and CV below.
