@@ -12,7 +12,7 @@ format:
 ## Family & Friends
 
 ::: {layout-ncol="4"}
-![Grandma on a picnic day](photos/grandma_flowers.jpg){group="family" loading="lazy"}
+![Grandma on a picnic day](photos/grandma_flowers.jpeg){group="family" loading="lazy"}
 
 ![W Amy at bubble tea store](photos/amy_tastea.jpg){group="family" loading="lazy"}
 
@@ -162,4 +162,3 @@ format:
 ## Inspirations
 
 ![Zinnia on Stage](photos/rachael_stage.jpg){group="inspiration" loading="lazy"}
-
