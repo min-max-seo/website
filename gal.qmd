@@ -30,6 +30,8 @@ format:
 :::
 
 ::: {layout-ncol="3"}
+![Luli + Min](photos/luli_and_min.jpg){group="family" loading="lazy"}
+
 ![Thao](photos/thao_1.jpg){group="family" loading="lazy"}
 
 ![Amy + Thao + Min](photos/amy_thao_min.jpg){group="family" loading="lazy"}
