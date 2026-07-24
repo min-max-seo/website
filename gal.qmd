@@ -29,6 +29,10 @@ format:
 ![Mel in a blue dress shirt](photos/mel_blueshirt.jpg){group="family" loading="lazy"}
 :::
 
+::: {layout-ncol="4"}
+![Mel + Min at Stonewall](photos/mel_and_min.jpg){group="family" loading="lazy"}
+:::
+
 ::: {layout-ncol="3"}
 ![Luli + Min](photos/luli_and_min.jpg){group="family" loading="lazy"}
 
@@ -73,6 +77,12 @@ format:
 ![Rock climbing](photos/rock_climbing.jpg){group="daily" loading="lazy"}
 
 ![Narcan sign on my backpack!](photos/naloxone_backpack.jpg){group="daily" loading="lazy"}
+
+![Superorganisms Group Photo](photos/superorganisms_crew.jpg){group="daily" loading="lazy"}
+
+![Superorganisms Performance](photos/superorganisms_performance.jpg){group="daily" loading="lazy"}
+
+![The 519 Transmasc Group at Trans March](photos/519_transmasc_group.jpg){group="daily" loading="lazy"}
 :::
 
 ## Academic Life
@@ -115,7 +125,7 @@ format:
 ![Mini metronome](photos/metronome.jpg){group="music" loading="lazy"}
 :::
 
-## Toto & Nana
+## Creatures I live(d) With
 
 ::: {layout-ncol="4"}
 ![Bedside Toto](photos/toto_3.jpg){group="pets" loading="lazy"}
@@ -142,7 +152,7 @@ format:
 
 ![Nana in Toto's bed](photos/nana_3.jpg){group="pets" loading="lazy"}
 
-![Toto under the sunlight](photos/toto_1.jpg){group="pets" loading="lazy"}
+![Toto under the sunlight](photos/toto_1.jpg){group="pets" loading="lazy"} ![Cactus named Halo](photos/cactus_halo.jpg){group="pets" loading="lazy"}
 
 ![Nana on a couch](photos/nana_2.jpg){group="pets" loading="lazy"}
 
